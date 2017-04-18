@@ -1,0 +1,6 @@
+IglooScore1:
+Line 39: relational operator was wrong
+
+IglooScore2:
+LIne 44: added score2 to score one after seeing score2 was the lowest value
+Line 49 & 50: set variables to 99 against allreason
