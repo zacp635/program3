@@ -1,0 +1,4 @@
+report
+.class
+jacoco.exec
+.DS_Store
